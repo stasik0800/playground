@@ -1,0 +1,8 @@
+{
+    "apps": [{
+        "name": "AppEtl",
+        "script": "C:\\Users\\corona\\PycharmProjects\\integration\\main.py",
+        "args": ["-c", "C:\\Users\\corona\\PycharmProjects\\integration\\etlconfig.json"],
+        "interpreter" : "C:\\Users\\corona\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe"
+    }]
+}
